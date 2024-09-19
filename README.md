@@ -22,7 +22,7 @@ The script is suitable for businesses aiming to optimize customer relationships,
 
 ### 1. Data Loading and Preprocessing
 
-The script begins by loading the dataset (`customer_data.csv`) and performing missing value imputation using appropriate strategies for both numerical and categorical data. This ensures a clean dataset for further analysis and modeling.
+The script begins by loading the dataset (customer_data.csv) and performing missing value imputation using appropriate strategies for both numerical and categorical data. This ensures a clean dataset for further analysis and modeling.
 
 ### 2. Sentiment Analysis
 
