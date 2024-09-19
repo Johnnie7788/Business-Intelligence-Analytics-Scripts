@@ -26,7 +26,7 @@ The script begins by loading the dataset (customer_data.csv) and performing miss
 
 ### 2. Sentiment Analysis
 
-Sentiment analysis is performed on customer feedback using the **TextBlob** library, generating a `Sentiment_Score` that measures the polarity of customer feedback. This score ranges from -1 (negative sentiment) to 1 (positive sentiment), providing valuable insights into overall customer satisfaction.
+Sentiment analysis is performed on customer feedback using the **TextBlob** library, generating a Sentiment_Score that measures the polarity of customer feedback. This score ranges from -1 (negative sentiment) to 1 (positive sentiment), providing valuable insights into overall customer satisfaction.
 
 ### 3. Behavioral Segmentation
 
@@ -70,7 +70,7 @@ These visualizations provide a clear graphical representation of customer behavi
 
 ## Dataset
 
-This repository includes the first six rows of the customer dataset (`customer_data.csv`). This demonstrates the structure of the data used in the script, which includes:
+This repository includes the first six rows of the customer dataset (customer_data.csv). This demonstrates the structure of the data used in the script, which includes:
 
 - **Customer_ID**: A unique identifier for each customer.
 - **Purchase_Frequency**: Number of purchases made by the customer within a defined time period.
@@ -95,7 +95,7 @@ pip install -r requirements.txt
 
 ### 2. Prepare Your Dataset
 
-Rename your dataset to `customer_data.csv` and place it in the root directory. The script is configured to handle CSV files but can be easily modified to accept other formats.
+Rename your dataset to customer_data.csv and place it in the root directory. The script is configured to handle CSV files but can be easily modified to accept other formats.
 
 ### 3. Run the Script
 
