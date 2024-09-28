@@ -19,7 +19,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 
 # Load the dataset
-df = pd.read_csv('real_world_ai_governance_business_insights.csv')
+df = pd.read_csv('business_insights_data.csv')
 
 # --- Step 1: Data Governance and Quality Checks ---
 print("Running Data Quality Checks...")
