@@ -200,10 +200,10 @@ If you're dealing with big datasets, the above approach can be scaled using PySp
 
 1. Initialize a Spark session:
     from pyspark.sql import SparkSession
-    spark = SparkSession.builder.appName("AI_Driven_Sentiment_Analysis").getOrCreate()
+    spark = SparkSession.builder.appName("AI-Driven Sentiment Prediction and Customer Insights Platform").getOrCreate()
 
 2. Read large datasets:
-    df_spark = spark.read.csv('AI-Driven_Customer_Sentiment_Analysis.csv', header=True, inferSchema=True)
+    df_spark = spark.read.csv('AI-Driven Sentiment Prediction and Customer Insights Platform.csv', header=True, inferSchema=True)
 
 3. Use PySpark's ML library for sentiment scoring, preprocessing, and predictions:
     # Example for sentiment scoring using PySpark UDFs:
