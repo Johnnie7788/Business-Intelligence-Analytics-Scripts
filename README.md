@@ -9,6 +9,7 @@ This repository highlights my projects in the field of business intelligence and
 Feel free to explore the repository, review the projects, and adapt the code to suit your own needs.
 
 Contact
+
 For any inquiries, collaborations, or jobs, feel free to contact me:
 
 Email: johnjohnsonogbidi@gmail.com
