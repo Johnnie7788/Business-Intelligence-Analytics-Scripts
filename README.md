@@ -10,7 +10,7 @@ Feel free to explore the repository, review the projects, and adapt the code to 
 
 Contact
 
-For any inquiries, collaborations, or jobs, feel free to contact me:
+For any inquiries, collaborations, or job opportunities, feel free to contact me:
 
 Email: johnjohnsonogbidi@gmail.com
 
