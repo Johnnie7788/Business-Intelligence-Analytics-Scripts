@@ -1,6 +1,6 @@
 Introduction
 
-Welcome to the Business Intelligence Analytics Scripts repository. I am John Johnson Ogbidi, a data analyst and business intelligence specialist with expertise in predictive modeling, data visualization, and machine learning. This repository showcases some of my work, developed to address a variety of business challenges using advanced data analytics and machine learning techniques.
+Welcome to the Business Intelligence Analytics Scripts repository. I am John Johnson Ogbidi, a data and business intelligence analyst with expertise in predictive modeling, data visualization, and machine learning. This repository showcases some of my work, developed to address a variety of business challenges using advanced data analytics and machine learning techniques.
 
 Purpose
 
