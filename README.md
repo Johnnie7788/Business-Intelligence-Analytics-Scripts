@@ -1,4 +1,4 @@
-I am John Johnson Ogbidi, a Data and Business Intelligence Analyst with expertise in predictive modeling, data visualization, and machine learning.
+I am John Johnson Ogbidi, a Data Scientist and Business Intelligence Specialyst with expertise in predictive modeling, data visualization, and machine learning.
 
 These scripts are designed to help organizations make informed, data-driven decisions by applying machine learning models and generating insightful visualizations.
 
