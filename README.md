@@ -30,4 +30,6 @@ Call to Action
 
 We invite you to explore, adapt, and contribute to this repository. Whether you are an analyst, data scientist, or executive, these projects are designed to help you unlock the full potential of your data.
 
+Email: johnjohnsonogbidi@gmail.com
+
 
